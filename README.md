@@ -1,24 +1,8 @@
-# README
+# DMMWEBCAMP応用課題b（Bookers2の機能拡張）
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**記録系の機能追加**
+* 今日と昨日の投稿数と投稿数の差を表示
+* 今週と先週の投稿数と投稿数の差を表示
+* 過去7日間分それぞれの投稿数を表示
+* 過去7日間分それぞれの投稿数グラフ化（chart.js使用）
+* 指定した日の投稿数を非同期で表示
